@@ -27,7 +27,8 @@
   
 ### 4 Enabie background jobs: (scheduler)
     
- go in side /sites/common_site_config.json
- if the value is 1 change it to 0
+go in side /sites/common_site_config.json
+
+if the value is 1 change it to 0
 
 
